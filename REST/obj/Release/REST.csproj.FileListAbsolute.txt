@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\rest\REST\bin\Release\REST.exe.config
+C:\Users\Usuario\source\repos\rest\REST\bin\Release\REST.exe
+C:\Users\Usuario\source\repos\rest\REST\bin\Release\REST.pdb
+C:\Users\Usuario\source\repos\rest\REST\bin\Release\MySql.Data.dll
+C:\Users\Usuario\source\repos\rest\REST\bin\Release\Google.Protobuf.dll
+C:\Users\Usuario\source\repos\rest\REST\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Usuario\source\repos\rest\REST\bin\Release\MySql.Data.xml
+C:\Users\Usuario\source\repos\rest\REST\obj\Release\REST.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\rest\REST\obj\Release\REST.Comandera.resources
+C:\Users\Usuario\source\repos\rest\REST\obj\Release\REST.Form1.resources
+C:\Users\Usuario\source\repos\rest\REST\obj\Release\REST.Menu.resources
+C:\Users\Usuario\source\repos\rest\REST\obj\Release\REST.Properties.Resources.resources
+C:\Users\Usuario\source\repos\rest\REST\obj\Release\REST.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\rest\REST\obj\Release\REST.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\rest\REST\obj\Release\REST.csproj.CopyComplete
+C:\Users\Usuario\source\repos\rest\REST\obj\Release\REST.exe
+C:\Users\Usuario\source\repos\rest\REST\obj\Release\REST.pdb
